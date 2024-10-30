@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ETicaretAPI.API.Controllers.ProductsController",
+    "Method": "GetProduts",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

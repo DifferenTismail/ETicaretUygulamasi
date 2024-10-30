@@ -1,0 +1,15 @@
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaret.BBAD6852.Up2Date
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\cSharpDersleri\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
